@@ -139,3 +139,11 @@ Add to cart and checkout
 Complete payment via Razorpay
 
 Download invoice
+
+🔐 Roles
+Visitor: Browse products, register/login
+User: Manage profile, cart, wishlist, orders, payments
+Admin: Add/remove products, manage orders, update statuses
+
+
+✅ With both backend and frontend running seamlessly, Ezzy Buy A2Z is now fully operational—ready to deliver a smooth, secure, and scalable e-commerce experience. Time to shift gears from building to growing. 🚀
